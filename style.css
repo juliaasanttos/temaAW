@@ -1,0 +1,39 @@
+/*
+Theme Name: Tema da Xolea 
+Theme URI: https://github.com/juliaasanttos/temaAW
+Author: Júlia Araújo Santos Jorge
+Author URI: https://github.com/juliaasanttos
+Description: Tema desenvolvido em aula de AW 
+Version: 1.0
+Text Domain: temadaxolea
+
+*/
+.container{
+    background-color: LavenderBlush;
+}
+.rodape{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);;
+    color: white;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    position: relative;
+    top: 0;
+}
+.rodape p{
+    margin-top: 40px;
+}
+.jumbotron{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    color: white;
+    width: 100%;
+    margin: 15px;
+}
+.jb-bg{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    text-align: center;
+    margin-bottom: 20px;
+}
+.fotothumb{
+    width: 300px;
+}
